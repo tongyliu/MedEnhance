@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <!-- ActionBar styles -->
+    <style name="MedActionBar"
+        parent="@android:style/Widget.Material.ActionBar">
+        <item name="android:background">#e32d2d</item>
+    </style>
+
+</resources>

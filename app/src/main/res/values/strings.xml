@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MedEnhance</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="home">Back to Start</string>
+    <string name="calculating">Calculating...</string>
+    <string name="select_disease">Select a disease: </string>
+    <string name="title_activity_symptoms">Symptoms</string>
+    <string name="select_symptoms">Select your symptoms: </string>
+    <string name="symptom1">Headaches</string>
+    <string name="symptom2">Sore Throat</string>
+    <string name="title_activity_chance">Results</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_disease">Select a Disease</string>
+    <string name="start_check_type">Calculate Your Chances</string>
+    <string name="start_data_entry">Contribute Your Data</string>
+    <string name="wait_for_upload">Please wait while data uploads to the server.</string>
+    <string name="results_page_disclaimer">Please note that our calculations are based on user entered data and are only useful as an approximation. Please consult an actual physician for a more precise diagnosis.</string>
+    <string name="data_received">Thank you for entering your data. We greatly appreciate your feedback, as your input increases the accuracy of our calculations.</string>
+
+    <string name="Asthma_about">CDC.gov: Asthma is a disease that affects your lungs. It causes repeated episodes of wheezing, breathlessness, chest tightness, and nighttime or early morning coughing. Asthma can be controlled by taking medicine and avoiding the triggers that can cause an attack. You must also remove the
+    triggers in your environment that can make your asthma worse.</string>
+
+    <string name="Avian_Flu_about">CDC.gov: Avian influenza refers to the disease caused by infection with avian (bird) influenza (flu) Type A viruses. These viruses occur naturally among wild aquatic birds worldwide and can infect domestic poultry and other bird and animal species. Avian flu viruses do not normally infect humans. However, sporadic human infections with avian flu viruses have occurred. The links below offer information about avian influenza for different audiences.</string>
+
+    <string name="Flu_about">CDC.gov: Influenza (flu) is a contagious respiratory illness caused by influenza viruses. It can cause mild to severe illness. Serious outcomes of flu infection can result in hospitalization or death. Some people, such as older people, young children, and people with certain health conditions, are at high risk for serious flu complications. The best way to prevent the flu is by getting vaccinated each year.</string>
+
+    <string name="Food_Poisoning_about">CDC.gov: Every year, Salmonella is estimated to cause 1.2 million illnesses in the United States, with 19,000 hospitalizations and 380 deaths. Most persons infected with Salmonella develop diarrhea, fever, and abdominal cramps 12 to 72 hours after infection.</string>
+
+    <string name="Chlamydia_about">CDC.gov: Chlamydia is a common STD that can infect both men and women. It can cause serious, permanent damage to a woman\'s reproductive system, making it difficult or impossible for her to get pregnant later on. Chlamydia can also cause a potentially fatal ectopic pregnancy (pregnancy that occurs outside the womb).</string>
+
+    <string name="Gonorrhea_about">CDC.gov: Gonorrhea is a sexually transmitted disease (STD) that can infect both men and women. It can cause infections in the genitals, rectum, and throat. It is a very common infection, especially among young people ages 15-24 years.</string>
+
+    <string name="HPV_about">CDC.gov: HPV is the most common sexually transmitted infection (STI). HPV is a different virus than HIV and HSV (herpes). HPV is so common that nearly all sexually active men and women get it at some point in their lives. There are many different types of HPV. Some types can cause health problems including genital warts and cancers. But there are vaccines that can stop these health problems from happening.</string>
+
+    <string name="HIV_AIDS_about">CDC.gov: HIV stands for human immunodeficiency virus. It is the virus that can lead to acquired immunodeficiency syndrome, or AIDS. Unlike some other viruses, the human body cannot get rid of HIV. That means that once you have HIV, you have it for life.</string>
+
+    <string name="Chronic_Fatigue_Syndrome_about">CDC.gov: Chronic fatigue syndrome, or CFS, is a devastating and complex disorder. People with CFS have overwhelming fatigue and a host of other symptoms that are not improved by bed rest and that can get worse after physical activity or mental exertion. They often function at a substantially lower level of activity than they were capable of before they became ill.</string>
+
+    <string name="Diabetes_about">CDC.gov: Diabetes is a disease in which blood glucose levels are above normal. Most of the food we eat is turned into glucose, or sugar, for our bodies to use for energy. The pancreas, an organ that lies near the stomach, makes a hormone called insulin to help glucose get into the cells of our bodies. Read more about diabetes.</string>
+
+    <string name="Epilepsy_about">CDC.gov: Epilepsy is a broad term used for a brain disorder that causes seizures. There are many different types of epilepsy. There are also different kinds of seizures.</string>
+
+    <string name="Kidney_Disease_about">CDC.gov: Kidney disease damages your kidneys, preventing them from cleaning your blood as well as they should. This damage can cause wastes to build up in your body and lead to other health problems, including heart disease and weak bones. It can cause anemia, which makes you feel tired and weak as the number of red blood cells becomes low. Chronic kidney disease eventually can cause kidney failure if it is not treated.</string>
+
+    <string name="PredictionsBasedOnData">Our application makes calculations based on user reported data. Because our application still does not have a statistically sufficient amount of users, we advise users to be wary of our estimates, and we encourage them to report their own data for our data collection.</string>
+
+</resources>

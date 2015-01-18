@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.mhacks.tong.medchance.MainActivity"
+    android:background="@drawable/main">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:width="185dp"
+        android:id="@+id/checkButton"
+        android:onClick="startCheckType"
+        android:background="@android:color/transparent"
+        android:textColor="#e32d2d"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="216dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:width="185dp"
+        android:id="@+id/button"
+        android:layout_marginTop="52dp"
+        android:layout_alignTop="@+id/checkButton"
+        android:layout_centerHorizontal="true"
+        android:onClick="startDataEntry"
+        android:background="@android:color/transparent"
+        android:textColor="#e32d2d" />
+
+
+</RelativeLayout>

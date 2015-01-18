@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="diseases_array">
+        <item>...</item>
+        <item>Asthma</item>
+        <item>Avian Flu</item>
+        <item>Chlamydia</item>
+        <item>Flu</item>
+        <item>Food Poisoning</item>
+        <item>Gonorrhea</item>
+        <item>HPV</item>
+        <item>HIV/AIDS</item>
+        <item>Chronic Fatigue Syndrome</item>
+        <item>Diabetes</item>
+        <item>Epilepsy</item>
+        <item>Kidney Disease</item>
+    </string-array>
+
+    <string-array name="flu_class_diseases">
+        <item>Asthma</item>
+        <item>Avian Flu</item>
+        <item>Flu</item>
+        <item>Food Poisoning</item>
+        <item>HIV/AIDS</item>
+    </string-array>
+
+    <string-array name="std_class_diseases">
+        <item>Chlamydia</item>
+        <item>Gonorrhea</item>
+        <item>HPV</item>
+    </string-array>
+
+    <string-array name="chronic_class_diseases">
+        <item>Chronic Fatigue Syndrome</item>
+        <item>Diabetes</item>
+        <item>Epilepsy</item>
+        <item>Kidney Disease</item>
+    </string-array>
+
+    <string-array name="flu_class_symptoms">
+        <item>Wheezing</item>
+        <item>Shortness of breath</item>
+        <item>Chest tightness</item>
+        <item>Coughing</item>
+        <item>Nausea</item>
+        <item>Abdominal pain</item>
+        <item>Diarrhea</item>
+        <item>Vomiting</item>
+        <item>Seizures</item>
+        <item>Fever</item>
+        <item>Sore throat</item>
+        <item>Runny nose</item>
+        <item>Muscle aches</item>
+        <item>Tiredness</item>
+        <item>Headaches</item>
+    </string-array>
+
+    <string-array name="std_class_symptoms">
+        <item>Discharge</item>
+        <item>Urination pain</item>
+        <item>Testicular swelling</item>
+        <item>Painful blisters</item>
+        <item>Cauliflower-shaped lumps</item>
+    </string-array>
+
+    <string-array name="chronic_class_symptoms">
+        <item>Unrefreshing sleep</item>
+        <item>Short-term memory loss</item>
+        <item>Lack of concentration</item>
+        <item>Joint pain</item>
+        <item>Periodic headaches</item>
+        <item>Frequent sore throat</item>
+        <item>Excessive thirst</item>
+        <item>Persisting hunger</item>
+        <item>Numbness</item>
+        <item>Tiredness</item>
+        <item>Dry skin</item>
+        <item>Swelling limbs</item>
+        <item>Abnormal urination</item>
+        <item>Shortness of breath</item>
+        <item>Itching</item>
+        <item>Appetite loss</item>
+        <item>Nausea</item>
+        <item>Back pain</item>
+    </string-array>
+</resources>
